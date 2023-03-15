@@ -1,0 +1,14 @@
+{
+  "name": "hardhat-project",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+    "@nomiclabs/hardhat-etherscan": "^3.1.2",
+    "hardhat": "^2.13.0"
+  },
+  "dependencies": {
+    "@0x/protocol-utils": "^11.18.1",
+    "@openzeppelin/contracts": "^4.8.0",
+    "@openzeppelin/contracts-upgradeable": "^4.8.2",
+    "dotenv": "^16.0.3"
+  }
+}
